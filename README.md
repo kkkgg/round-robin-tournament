@@ -12,6 +12,48 @@ Russia, Saudi Arabia, Egypt, Uruguay
 
 ![Group A](https://github.com/kkkgg/round-robin-tournament/raw/master/img/worldcup2018_groupstage_a.gif)
 
+### Group B
+
+Portugal, Spain, Morocco, Iran
+
+![Group B](https://github.com/kkkgg/round-robin-tournament/raw/master/img/worldcup2018_groupstage_b.gif)
+
+### Group C
+
+France, Australia, Peru, Denmark
+
+![Group C](https://github.com/kkkgg/round-robin-tournament/raw/master/img/worldcup2018_groupstage_c.gif)
+
+### Group D
+
+Argentina, Iceland, Croatia, Nigeria
+
+![Group D](https://github.com/kkkgg/round-robin-tournament/raw/master/img/worldcup2018_groupstage_d.gif)
+
+### Group E
+
+Brazil, Switzerland, Costa Rica, Serbia
+
+![Group E](https://github.com/kkkgg/round-robin-tournament/raw/master/img/worldcup2018_groupstage_e.gif)
+
+### Group F
+
+Germany, Mexico, Sweden, Korea Republic
+
+![Group F](https://github.com/kkkgg/round-robin-tournament/raw/master/img/worldcup2018_groupstage_f.gif)
+
+### Group G
+
+Belgium, Panama, Tunisia, England
+
+![Group G](https://github.com/kkkgg/round-robin-tournament/raw/master/img/worldcup2018_groupstage_g.gif)
+
+### Group H
+
+Poland, Senegal, Colombia, Japan
+
+![Group H](https://github.com/kkkgg/round-robin-tournament/raw/master/img/worldcup2018_groupstage_h.gif)
+
 
 -----------------------------------------------------
 
